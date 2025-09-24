@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Waleed Khan  
 
-<!--
-**Waleed-09/Waleed-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ COMSATS University Islamabad  
+💻 MERN Stack Learner (Full Stack Path) | Passionate about Web Development & Databases  
+🏆 Hackathon Participant | Freelancing | Certificates in Statistics, Networks, Stage Management, Freelancing, Java 
+🤖 Member of IET Robotics Club (Main Body)
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+| Languages | Web | Tools |
+|-----------|-----|-------|
+| C, Java, JavaScript, SQL, Python | HTML, CSS, React (learning), MySQL | Git, GitHub, VS Code, IntelliJ IDEA |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus  
+- Learning **MERN Stack** step by step  
+- Building small projects & uploading on GitHub  
+- Preparing for open-source contributions
+- Currently HOSTING HEAD at IET ROBOTICS CLUB
+- Building Frontened Projects 
+
+## 📊 GitHub Stats  
+![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Waleed-09&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect with me  
+- 📧 **Email:** waleedali36559@gmail.com  
+- 💼 **LinkedIn:** *(Add link soon)*  
