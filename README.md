@@ -24,4 +24,4 @@
 
 ## 📫 Connect with me  
 - 📧 **Email:** waleedali36559@gmail.com  
-- 💼 **LinkedIn:** *(Add link soon)*  
+- 💼 **LinkedIn:** *(www.linkedin.com/in/muhammad-waleed-khan-b129b9378)*  
